@@ -1,0 +1,36 @@
+C:\Users\emanu\Desktop\EL PROYECTO\sistemaArea\sistemaArea\bin\Debug\sistemaArea.exe.config
+C:\Users\emanu\Desktop\EL PROYECTO\sistemaArea\sistemaArea\bin\Debug\sistemaArea.exe
+C:\Users\emanu\Desktop\EL PROYECTO\sistemaArea\sistemaArea\bin\Debug\sistemaArea.pdb
+C:\Users\emanu\Desktop\EL PROYECTO\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csprojAssemblyReference.cache
+C:\Users\emanu\Desktop\EL PROYECTO\sistemaArea\sistemaArea\obj\Debug\sistemaArea.formularioPrincipal.resources
+C:\Users\emanu\Desktop\EL PROYECTO\sistemaArea\sistemaArea\obj\Debug\sistemaArea.Properties.Resources.resources
+C:\Users\emanu\Desktop\EL PROYECTO\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.GenerateResource.cache
+C:\Users\emanu\Desktop\EL PROYECTO\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\EL PROYECTO\sistemaArea\sistemaArea\obj\Debug\sistemaArea.exe
+C:\Users\emanu\Desktop\EL PROYECTO\sistemaArea\sistemaArea\obj\Debug\sistemaArea.pdb
+C:\Users\emanu\Desktop\EL PROYECTO\sistemaArea\sistemaArea\obj\Debug\sistemaArea.inicio.resources
+C:\Users\emanu\Desktop\EL PROYECTO\sistemaArea\sistemaArea\obj\Debug\sistemaArea.registroPeliculas.resources
+C:\Users\emanu\Desktop\EL PROYECTO\sistemaArea\sistemaArea\obj\Debug\sistemaArea.peliculasLista.resources
+C:\Users\emanu\Desktop\EL PROYECTO\sistemaArea\sistemaArea\obj\Debug\sistemaArea.usuariosLista.resources
+C:\Users\emanu\Desktop\EL PROYECTO - copia\sistemaArea\sistemaArea\bin\Debug\sistemaArea.exe.config
+C:\Users\emanu\Desktop\EL PROYECTO - copia\sistemaArea\sistemaArea\bin\Debug\sistemaArea.exe
+C:\Users\emanu\Desktop\EL PROYECTO - copia\sistemaArea\sistemaArea\bin\Debug\sistemaArea.pdb
+C:\Users\emanu\Desktop\EL PROYECTO - copia\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csprojAssemblyReference.cache
+C:\Users\emanu\Desktop\EL PROYECTO - copia\sistemaArea\sistemaArea\obj\Debug\sistemaArea.inicio.resources
+C:\Users\emanu\Desktop\EL PROYECTO - copia\sistemaArea\sistemaArea\obj\Debug\sistemaArea.registroPeliculas.resources
+C:\Users\emanu\Desktop\EL PROYECTO - copia\sistemaArea\sistemaArea\obj\Debug\sistemaArea.peliculasLista.resources
+C:\Users\emanu\Desktop\EL PROYECTO - copia\sistemaArea\sistemaArea\obj\Debug\sistemaArea.formularioPrincipal.resources
+C:\Users\emanu\Desktop\EL PROYECTO - copia\sistemaArea\sistemaArea\obj\Debug\sistemaArea.Properties.Resources.resources
+C:\Users\emanu\Desktop\EL PROYECTO - copia\sistemaArea\sistemaArea\obj\Debug\sistemaArea.usuariosLista.resources
+C:\Users\emanu\Desktop\EL PROYECTO - copia\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.GenerateResource.cache
+C:\Users\emanu\Desktop\EL PROYECTO - copia\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\EL PROYECTO - copia\sistemaArea\sistemaArea\obj\Debug\sistemaArea.exe
+C:\Users\emanu\Desktop\EL PROYECTO - copia\sistemaArea\sistemaArea\obj\Debug\sistemaArea.pdb
+C:\Users\emanu\Desktop\EL PROYECTO - copia\sistemaArea\sistemaArea\bin\Debug\MySql.Data.dll
+C:\Users\emanu\Desktop\EL PROYECTO - copia\sistemaArea\sistemaArea\bin\Debug\Google.Protobuf.dll
+C:\Users\emanu\Desktop\EL PROYECTO - copia\sistemaArea\sistemaArea\bin\Debug\MySql.Data.xml
+C:\Users\emanu\Desktop\EL PROYECTO - copia\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.CopyComplete
+C:\Users\emanu\Desktop\EL PROYECTO - copia\sistemaArea\sistemaArea\obj\Debug\sistemaArea.eliminarPelicula.resources
+C:\Users\emanu\Desktop\EL PROYECTO - copia\sistemaArea\sistemaArea\obj\Debug\sistemaArea.modificarPelicula.resources
+C:\Users\emanu\Desktop\EL PROYECTO - copia\sistemaArea\sistemaArea\obj\Debug\sistemaArea.eliminarUsuario.resources
+C:\Users\emanu\Desktop\EL PROYECTO - copia\sistemaArea\sistemaArea\obj\Debug\sistemaArea.modificarUsuario.resources
